@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pawelSowinskiPortfolio/react_hook-licznik/static/css/main.b100e6da.chunk.css",
+    "main.js": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/main.af9ce13e.chunk.js",
+    "main.js.map": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/main.af9ce13e.chunk.js.map",
+    "runtime-main.js": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/runtime-main.136e26b6.js",
+    "runtime-main.js.map": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/runtime-main.136e26b6.js.map",
+    "static/js/2.a6157bb6.chunk.js": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/2.a6157bb6.chunk.js",
+    "static/js/2.a6157bb6.chunk.js.map": "/pawelSowinskiPortfolio/react_hook-licznik/static/js/2.a6157bb6.chunk.js.map",
+    "index.html": "/pawelSowinskiPortfolio/react_hook-licznik/index.html",
+    "precache-manifest.b6e559ed1aded7e12b4a30840b08eff8.js": "/pawelSowinskiPortfolio/react_hook-licznik/precache-manifest.b6e559ed1aded7e12b4a30840b08eff8.js",
+    "service-worker.js": "/pawelSowinskiPortfolio/react_hook-licznik/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/pawelSowinskiPortfolio/react_hook-licznik/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136e26b6.js",
+    "static/js/2.a6157bb6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.af9ce13e.chunk.js"
+  ]
+}
